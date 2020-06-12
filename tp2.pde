@@ -48,9 +48,7 @@ textSize (20);
 text (" Christian Bale como Patrick Bateman \n Reese Witherspoon como Evelyn Williams \n Chloë Sevigny como Jean \n Justin Theroux como Timothy Bryce \n Josh Lucas como Craig McDermott \n  Bill Sage como David Van Patten  \n Matt Ross como Luis Carruthers \n  Jared Leto como Paul Allen  \n Samantha Mathis como Courtney Rawlinson \n Willem Dafoe como el Detective Donald Kimball  \n Cara Seymour como Christie  \n Guinevere Turner como Elizabeth \n Krista Sutton como Sabrina \n  Reg E. Cathey como Al \n Catherine Black como Vanden \n Anthony Lemke como Marcus Halberstram \n Stephen Bogaert como Harold Carnes ", textX2, textY3);
 textY3 = textY3 -1;
 
- }
- void mouseClicked () {
-    lineY = 0 ;
+
  }
  
 
